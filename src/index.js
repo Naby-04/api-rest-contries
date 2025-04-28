@@ -9,9 +9,3 @@ root.render(
     <App />
   </>
 );
-
-// Sélection avec l'ID
-const element = document.getElementById("monParagraphe");
-
-// Affichage dans la console
-console.log(element);
